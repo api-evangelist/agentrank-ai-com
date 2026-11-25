@@ -66,7 +66,7 @@
 
 AgentRank provides a leaderboard and ranking of MCP (Machine-Callable-Protocol) servers, tools, and agents. It aggregates popularity signals, usage metrics, and community contributions to help developers discover and integrate top AI agents and tools. The platform offers daily updates, detailed tool profiles, pricing information, and a blog covering ecosystem trends and news.
 
-**Areas:** AI · Ranking · Tools · Marketplace · Analytics
+**Areas:** Artificial Intelligence · Rankings · Tools · Marketplace · Analytics
 
 ## AgentRank on APIs.io
 
@@ -80,23 +80,29 @@ Everything profiled for AgentRank is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentrank-ai-com-mcp.yml](https://apis.io/servers/agentrank-ai-com/agentrank-ai-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentrank Ai Com Domain Security](https://apis.io/security/agentrank-ai-com/agentrank-ai-com-domain-security/)
+- [AgentRank Domain Security](https://apis.io/security/agentrank-ai-com/agentrank-ai-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentrank Ai Com Plans Pricing](https://apis.io/plans/agentrank-ai-com/agentrank-ai-com-plans-pricing/)
+- [AgentRank Plans Pricing](https://apis.io/plans/agentrank-ai-com/agentrank-ai-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentrank Ai Com Rate Limits](https://apis.io/rate-limits/agentrank-ai-com/agentrank-ai-com-rate-limits/)
+- [AgentRank Rate Limits](https://apis.io/rate-limits/agentrank-ai-com/agentrank-ai-com-rate-limits/)
 
 ## Where to find this API
 
@@ -111,18 +117,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 21.4** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 20.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.3 |
+| Discoverability | 65.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 34.7 |
+| Operational transparency | 33.3 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 38.9 |
+| Access clarity | 34.0 |
 
-**Agent readiness 5.6** — agent-aware
+**Agent readiness 5.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -147,8 +153,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentrank-ai-com/](https://apis.io/providers/agentrank-ai-com/).
 
